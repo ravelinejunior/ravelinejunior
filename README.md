@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravelinejunior
 - 👀 I’m interested in all kind of techies
-- 🌱 I’m currently learning kotlin mvvm, clean architecture 
+- 🌱 I’m currently learning android auto 
 - 💞️ I’m looking to collaborate on everyone
 
 
